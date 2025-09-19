@@ -1,0 +1,14 @@
+#resposta {
+    border: 2px black;
+    border-style: solid;
+    padding: 5px;
+    margin-right: 80%;
+}
+
+.problema {
+    background: red;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    margin-right: 80%;
+}
